@@ -1,1 +1,1 @@
-# waqf
+Waqf Public License
