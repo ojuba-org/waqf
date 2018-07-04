@@ -18,8 +18,8 @@ According to our beliefs (which we don't enforce on any one, and you may or may 
     Islamic Jurisprudence has specified what can be owned, and the rules does not apply to ideas as it's not a bounded tangible object and almost all the terms of proprietary agreements fall in ruling of forbidden Gharar3) (a kind of fraud that use uncertainty to fool the customers) as we see in Imam Muslim Sahih description of that term {and below that term we classify so many actions like selling negligible objects or unknowns or what can't be delivered or things that are not fully owned by the seller} and such view is also shared by the four major scholars.
     The laws of Fiqh (Islamic Jurisprudence) have been perfected in the good centuries and no new rulings are allowed to be brought except for newly discovered things and this does not apply ideas as they did exist in the past centuries and Muslims massively spread them without owning them. FYI: Almost all the Islamic literature is freely available on the internet.
     Concealing useful knowledge from those who need it impose damage to people for temporal gains to few individuals. This can not be justified by Shari'a (Islamic Law) as there should be no harm nor malice.
-    انتفاء مبرر المصلحة إذا وجدت طرق لنشر الأعمال الفكرية و الرّبح منها دون كتمها.
-    إنّ المتمعن في قوانين الملكية الفكرية المختلفة يجدها تتلخص بإعطاء النّاشر الحقّ في تحريم ما أحله الله ليكون ذلك مدخلًا له في كسب مادي، و لا علاقة لهذه القوانين بتقديم خدمة أو منتج معين، فالمادة “المملوكة” مُبهمة غامضة و ادّعاء ملكيتها يفتح باب الابتزاز.
+    Even bringing interests to software publishers is not a valid excuse because there are some companies produce and publish software without owning them (proprietary software) and yet they gain profits.
+    The so call “Intellectual Proprietary” is all about giving owners the right to forbid what Allah had made lawful to gain money, not by providing service nor goods. For the "owned" product is of uncertain and intangible nature and claiming its ownership يفتح باب الابتزاز.
 
 و نحن في وقف (كما في العديد من الرخص المُضادة لحكر التّوزيع) تهمّنا مصلحة عموم البشر على نظيرتها لدى مُعظّمي المصلحة الذّاتية، و لا نغفل عن اهتمامنا بمصلحة صاحب العمل الرّاجي للثّواب من الله عزّ و جلّ، فنعتقد أنّ حقوق الطّبع و التّوزيع “ممنوحة” و ليست “محفوظة” و ذلك كما أسلفنا وفق الضوابط أدناه. و نقف هنا عند مسألتين:
 
@@ -59,20 +59,23 @@ As the name suggests, with “Waqf” 5) the holder announce his/her work was pr
 
 لا تخضع رخصة وقف لحدٍ زمني، فلا ينتهي نشر العمل برخصة وقف بمدّة معينة، حيث يُعدّ تاريخ كلّ استخدام للعمل بمثابة تاريخ جديد لتوقيع هذه الاتفاقية -أي تاريخ جديد للنّشر و تاريخ جديد لقبول النّشر- فمهما كانت المدّة القصوى للملكية الفكرية ضمن القوانين المحلية فهي ساقطةٌ حُكمًا لأنّ كل استخدام للعمل يعيد بدء تلك المُدّة من الصّفر.
 
-    خامسًا - حقّ التّوزيع:
+    Fifth - Redistribution :
 
-يحقّ للمنتفع إعادة توزيع العمل بصورته الأصلية و دون تعديل و تحت شروط رخصة وقف، بالكمّ الذي يريد مع صون ذكر الحقّ الأدبي لصاحب العمل.
+The user have the right to redistribute the unmodified work in any quantity to any third party under the terms of this license, acknowledging the favor and ethical rights of the holder to the third party.
 
-    سادسًا - حق التّعديل:
+    Sixth - Modifications :
 
-يحقّ للمنتفع الحصول على النّسخة المصدرية للعمل كما و يحقّ له التّعديل عليها بما يناسب احتياجاته و ضمن الحدود الموضّحة في باقي البنود.
+The user has the right to get the source form of the work and make modifications enhancing or adopting to the user's needs to the limits given by this license.
 
-    سابعًا - حقّ توزيع النّسخة المُعدّلة:
+    Seventh - Redistribute modifications:
 
-يحق للمنتفع إعادة توزيع العمل المعدّل فقط تحت رخصة وقف العامة و على أن يذكر أصل العمل المعدّل و طبيعة التّعديل و أن يكون واضحًا بما لا يدع مجالًا للُّبْس أنّ هذه النّسخة مُعدلة و ليست هي النّسخة الأصلية التي انتجها صاحب العمل الأول.
+The user can redistribute modifications only under this license provided that he points to previous original work (the unmodified work) and its author and the nature of modification clearly to the third party to whom the modified work is presented in a way that no one may reasonably get confused between it and the original unmodified work of the previous author.
 
-    ثامنًا - عدم المسؤولية:
+    Eighth- Disclaimer of responsibility :
 
-لا يتحملّ صاحب العمل أية مسؤولية لا قانونية و لا أخلاقية عن حسن أو إساءة استخدام العمل أو الأضرار المباشرة أو غير المباشرة النّاتجة عنه إلى أقصى حدٍ يسمح به القانون. و صاحب العمل بهذا لا يقدّم أية ضمانةٍ لا ضمنًا و لا تصريحًا بقدرة المنتج على تحقيق أي غرض. المسؤولية الكاملة تقع على عاتق المنتفع و الضّمانة الوحيدة المقدّمة له هي مصدر العمل.
+The holder does not take any legal nor moral direct or indirect responsibility nor liability on the good or bad usage or damages caused by the work to the farthest level allowed by the law. THIS SOFTWARE IS PROVIDED AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED BY THE HOLDER.
+
+The entire responsibility is on the user and the only warranty given to him is the source of the work.
+
 1) This is an authentic sound/Sahih as it's narrated by Imam Ahmad, Abu Dawood, AlTirmithi and Ibn Majah. Refer to “Hoisting the Lighthouse : A synopsis of the Various narrations of the Hadith: Whoever conceals knowledge, Allah will bridle him with a bridle of fire” or in Arabic “رفع المنار بطرق حديث من كتم علماً ألجمه الله بلجام من نار”.
 6) Sadaqa Jariah means sustainable charity which is a kind of charity that continue to be beneficial to people even after the death of the one who give it like giving the fruits of a field but not the field, more over prophet Muhammad PBUH specifically named useful knowledge as a form of that kind of charity.
